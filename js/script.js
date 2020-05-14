@@ -1,4 +1,5 @@
 $(document).ready(function () {
+  // GABRIELLA
 
   $('#modal-content').modal();
 
